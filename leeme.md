@@ -1,8 +1,8 @@
 ## sistema de coordenadas
 ![alt text](image.png)
 
-## resultado
-![alt text](image-1.png)
-
-## el codigo 
+## el codigo
 ![alt text](image-2.png)
+
+## el resultado
+![alt text](image-1.png)
